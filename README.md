@@ -13,6 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/cfPz33Qz" alt="Discord" title="Discord Server"><img width="35px" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:oleksandratkachuk@yahoo.com"><img width="34px" alt="Mailbox" src="https://github.com/AlexTkSE/AlexTkSE/raw/main/Mail1.png"></a>	
 </p>
 
 
