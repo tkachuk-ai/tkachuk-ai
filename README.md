@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/otkachukSE"><img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/LinkedIn icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/tkachuk_ai"><img width="30px" alt="Telegram" title="Telegram" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Telegram.png"/></a>
+  <a href="https://t.me/tkachuk_ai"><img width="30px" alt="Telegram" title="Telegram" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Telegram1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/cfPz33Qz" alt="Discord" title="Discord Server"><img width="35px" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
