@@ -3,8 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Hand.gif" width="32px"></h1>
-<br>
-	
+
 <p align="center">
   <a href="https://youtube.com/@CS_Math?si=IrWWvGlMSDaH-7Sz"><img width="29px" alt="Youtube" title="Youtube" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/YouTube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
