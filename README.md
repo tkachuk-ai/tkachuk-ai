@@ -34,6 +34,7 @@ currently_learning: ["Swift", "XCode", "C++", "Object-Oriented Desing & Analysis
 ask_me_about: ["Data Structures & Algorithms, "Discrete Math & Calculus", "HTML", "CSS", "JavaScript", "Java", "Python", "React.js", "LeetCode"]
 hobbies: ["Art & Design", "Blogging"] 
 ```
+<br>
 <div align="center">
         <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/SnakeHeader.gif" width="500">
 </div>
