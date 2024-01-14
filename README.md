@@ -38,3 +38,5 @@ hobbies: ["Art & Design", "Blogging"]
 <div align="center">
         <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/SnakeHeader.gif" width="500">
 </div>
+
+<img src="https://raw.githubusercontent.com/tkachuk-ai/tkachuk-ai/snake/github-contribution-grid-snake-dark.svg" width="100%">
