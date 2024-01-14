@@ -21,5 +21,9 @@
 </p>
 
 ### <img width="32px" alt="Coder" title="Coder" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Coder.gif"> &#8287; About Me
-- Name: Oleksandra Tkachuk
+```yaml
+name: Oleksandra Tkachuk
+located_in: [Bloomington, IN, USA]
+from: 
+```
 
