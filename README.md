@@ -23,7 +23,7 @@
 ### <img width="32px" alt="Coder" title="Coder" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Coder.gif"> &#8287; About Me
 ```yaml
 name: Oleksandra Tkachuk
-located_in: [Bloomington-IN-USA]
+located_in: [USA]
 from: [Ukraine]
 education: ["B.S. Computer Science, Software Engineering", "Data Science Minor", "Mathematics Minor"]
 school: ["Indiana University", "Hutton Honors College", "Harvard Online"]
