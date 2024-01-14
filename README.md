@@ -26,5 +26,6 @@ name: Oleksandra Tkachuk
 located_in: [Bloomington-IN-USA]
 from: [Ukraine]
 education: ["B.S. Computer Science, Software Engineering", "Data Science Minor", "Mathematics Minor"]
+school: ["Indiana University", "Hutton Honors College", "Harvard Online"]
 ```
 
