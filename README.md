@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/City.gif">
+	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/City.gif" width="1010">
 </div>
 
 <div align="center">
