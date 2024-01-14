@@ -35,5 +35,5 @@ ask_me_about: ["Data Structures & Algorithms, "Discrete Math & Calculus", "HTML"
 hobbies: ["Art & Design", "Blogging"] 
 ```
 <div align="center">
-        <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/SnakeHeader.gif" width="700">
+        <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/SnakeHeader.gif" width="500">
 </div>
