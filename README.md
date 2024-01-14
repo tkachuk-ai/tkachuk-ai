@@ -1,4 +1,8 @@
 <div align="center">
+	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/City.gif">
+</div>
+
+<div align="center">
 	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Welcome.gif">
 </div>
 
