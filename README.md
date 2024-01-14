@@ -20,6 +20,6 @@
   <a href="mailto:oleksandratkachuk@yahoo.com"><img width="34px" alt="Mailbox" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Mail.png"></a>	
 </p>
 
-## <img width="32px" alt="Coder" title="Coder" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Coder.gif"> &#8287; About Me
-<h2>• Name: Oleksandra Tkachuk</h2>
+### <img width="32px" alt="Coder" title="Coder" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Coder.gif"> &#8287; About Me
+- Name: Oleksandra Tkachuk
 
