@@ -55,17 +55,17 @@ hobbies: ["Art & Design", "Blogging"]
 ##
 ### <img width="32px" alt="Slash" title="Slash" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/decoration/Slash.gif"> &#8287; Tech Stack
 <p>
-	<img width="50px" alt="CSS" title="CSS" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/CSS-icon.gif">
+	<img width="50px" alt="CSS" title="CSS" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/CSS.gif">
 	&#8287;&#8287;
-	<img width="50px" alt="HTML" title="HTML" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/HTML-icon.gif">	
-	<img width="75px" alt="Java" title="Java" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Java-icon.gif">
-	<img width="50px" alt="JavaScript" title="JavaScript" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/JavaScript-icon1.gif">
+	<img width="50px" alt="HTML" title="HTML" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/HTML.gif">	
+	<img width="75px" alt="Java" title="Java" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/Java.gif">
+	<img width="50px" alt="JavaScript" title="JavaScript" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/JavaScript.gif">
 	&#8287;&#8287;&#8287;&#8287;
-	<img width="50px" alt="Pythin" title="Python" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Python-icon.gif">
+	<img width="50px" alt="Pythin" title="Python" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/Python.gif">
 	&#8287;&#8287;&#8287;
-	<img width="50px" alt="Swift" title="Swift" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Swift-icon.gif">
+	<img width="50px" alt="Swift" title="Swift" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/Swift.gif">
 	&#8287;&#8287;
-	<img width="50px" alt="GitHub" title="GitHub" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/GitHub-icon.gif">
+	<img width="50px" alt="GitHub" title="GitHub" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/GitHub.gif">
 </p>
 
 
