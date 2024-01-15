@@ -53,8 +53,8 @@ hobbies: ["Art & Design", "Blogging"]
 
 <a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=725072838" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=dark" width="500" height="auto">
-    <img alt="Top Contributors of tkachuk-ai/tkachuk-ai - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=light" width="500" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=dark" width="400" height="auto">
+    <img alt="Top Contributors of tkachuk-ai/tkachuk-ai - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=light" width="400" height="auto">
   </picture>
 </a>
 
