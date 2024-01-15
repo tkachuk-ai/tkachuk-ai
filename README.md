@@ -59,4 +59,4 @@ hobbies: ["Art & Design", "Blogging"]
 	&#8287;
 	<img width="50px" alt="HTML" title="HTML" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/HTML-icon.gif">
 </p>
-<p>&#8287;&#8287;&#8287;CSS&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;HTML</p>
+<p>&#8287;&#8287;&#8287;CSS&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;HTML</p>
