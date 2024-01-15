@@ -43,13 +43,9 @@ hobbies: ["Art & Design", "Blogging"]
 
  ### <img width="36px" alt="Stats" title="Stats" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Stats.gif"> GitHub Stats
 <p align="center">
-<a href="https://github.com/tkachuk-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkachuk-ai&hide_border=true&&theme=jolly">
-</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkachuk-ai&hide_border=true&&theme=jolly">
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://github.com/tkachuk-ai">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkachuk-ai&hide_border=true&show_icons=true&theme=ambient_gradient&line_height=30" alt="Oleksandra's github stats"/>
-</a>
 </p>
 
 
