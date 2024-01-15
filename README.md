@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Welcome-2.gif">
+	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/Welcome.gif">
 </div>
 
-<h1 align="center">Hi there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Hand.gif" width="32px"></h1>
+<h1 align="center">Hi there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/Hand.gif" width="32px"></h1>
 
 <p align="center">
   <a href="https://youtube.com/@CS_Math?si=IrWWvGlMSDaH-7Sz"><img width="29px" alt="Youtube" title="Youtube" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/YouTube.png"/></a>
