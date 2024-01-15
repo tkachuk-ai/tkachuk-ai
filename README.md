@@ -54,5 +54,9 @@ hobbies: ["Art & Design", "Blogging"]
 
 ##
 ### <img width="32px" alt="Slash" title="Slash" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Slash.gif"> &#8287; Coding Tools
-<img width="50px" alt="CSS" title="CSS" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/CSS-icon.gif">
-<p>&#8287;&#8287;&#8287;CSS</p>
+<p>
+	<img width="50px" alt="CSS" title="CSS" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/CSS-icon.gif">
+	&#8287;
+	<img width="50px" alt="HTML" title="HTML" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/HTML-icon.gif">
+</p>
+<p>&#8287;&#8287;&#8287;CSS&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;HTML</p>
