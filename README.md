@@ -42,8 +42,15 @@ hobbies: ["Art & Design", "Blogging"]
  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;![snake gif](https://github.com/tkachuk-ai/tkachuk-ai/blob/output/github-contribution-grid-snake-dark.svg)
 
  ### <img width="36px" alt="Stats" title="Stats" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Stats.gif"> GitHub Stats
-
-
+<p align="center">
+<a href="https://github.com/tkachuk-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkachuk-ai&hide_border=true&&theme=jolly">
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://github.com/tkachuk-ai">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkachuk-ai&hide_border=true&show_icons=true&theme=ambient_gradient&line_height=30" alt="Oleksandra's github stats"/>
+</a>
+</p>
 
 
 
