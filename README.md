@@ -57,58 +57,18 @@ hobbies: ["Art & Design", "Blogging"]
 <p>
 	<img width="50px" alt="CSS" title="CSS" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/CSS-icon.gif">
 	&#8287;&#8287;
-	<img width="50px" alt="HTML" title="HTML" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/HTML-icon.gif">
-	&#8287;
+	<img width="50px" alt="HTML" title="HTML" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/HTML-icon.gif">	
 	<img width="75px" alt="Java" title="Java" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Java-icon.gif">
-	&#8287;&#8287;
 	<img width="50px" alt="JavaScript" title="JavaScript" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/JavaScript-icon1.gif">
-	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+	&#8287;&#8287;&#8287;&#8287;
 	<img width="50px" alt="Pythin" title="Python" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Python-icon.gif">
-	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+	&#8287;&#8287;&#8287;
 	<img width="50px" alt="Swift" title="Swift" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Swift-icon.gif">
 </p>
-<p>&#8287;&#8287;&#8287;&#8287;CSS
-	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;HTML
-	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;Java
-	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;JavaScript
-        &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;Python
-        &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;Swift</p>
 
 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="10%">
-<span><b><center>CSS</center></b></span> 
-<img width=50px src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/CSS-icon.gif"> 
-</td>
 
-<td align="center" width="10%">
-<span><b><center>HTML</center></b></span> 
-<img width=50px src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/HTML-icon.gif"> 
-</td>
 
-<td align="center" width="10%">
-<span><b><center>Java</center></b></span> 
-<img width=50px src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Java-icon.gif"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>K</center></b></span> 
-<img height=65px src=""> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>G</center></b></span> 
-<img height=65px src=""> 
-</td>
-</tr>
-
-</tbody>
-</table>
 
 
 
