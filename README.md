@@ -21,6 +21,7 @@
 </p>
 
 ### <img width="32px" alt="Coder" title="Coder" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Coder.gif"> &#8287; About Me
+
 ```yaml
 name: Oleksandra Tkachuk
 located_in: [USA]
@@ -34,13 +35,16 @@ currently_learning: ["Swift", "XCode", "C++", "Object-Oriented Desing & Analysis
 ask_me_about: ["Data Structures & Algorithms, "Discrete Math & Calculus", "HTML", "CSS", "JavaScript", "Java", "Python", "React.js", "LeetCode"]
 hobbies: ["Art & Design", "Blogging"] 
 ```
+##
 <br>
+
 <div align="center">
         <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/SnakeHeader.gif" width="500">
 </div>
 
  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;![snake gif](https://github.com/tkachuk-ai/tkachuk-ai/blob/output/github-contribution-grid-snake-dark.svg)
 
+##
  ### <img width="36px" alt="Stats" title="Stats" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Stats.gif"> GitHub Stats
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkachuk-ai&layout=compact&hide_border=true&theme=transparent&custom_title=✨%20Coding%20Languages&title_color=ff4dd2&text_color=9999ff">
