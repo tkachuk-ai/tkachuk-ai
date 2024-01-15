@@ -2,6 +2,8 @@
 	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/city/City.gif" width="1010">
 </div>
 
+##
+
 <div align="center">
 	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/Welcome.gif">
 </div>
@@ -67,8 +69,6 @@ hobbies: ["Art & Design", "Blogging"]
 	&#8287;&#8287;
 	<img width="50px" alt="GitHub" title="GitHub" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/GitHub.gif">
 </p>
-
-
 
 
 
