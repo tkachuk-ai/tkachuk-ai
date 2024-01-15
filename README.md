@@ -43,19 +43,6 @@ hobbies: ["Art & Design", "Blogging"]
 
  ### <img width="36px" alt="Stats" title="Stats" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Stats.gif"> GitHub Stats
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=725072838" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=dark" width="375" height="auto">
-    <img alt="Pushes and Commits of tkachuk-ai/tkachuk-ai" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=light" width="400" height="auto">
-  </picture>
-</a>
-
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=725072838" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=dark" width="400" height="auto">
-    <img alt="Top Contributors of tkachuk-ai/tkachuk-ai - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=light" width="400" height="auto">
-  </picture>
-</a>
 
 
 
