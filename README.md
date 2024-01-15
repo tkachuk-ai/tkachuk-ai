@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/tkachuk_ai"><img width="30px" alt="Telegram" title="Telegram" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cfPz33Qz" alt="Discord" title="Discord Server"><img width="35px" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Discord.png"/></a>
+  <a href="https://discord.gg/cfPz33Qz" alt="Dyscord" title="Discord Server"><img width="35px" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:oleksandratkachuk@yahoo.com"><img width="34px" alt="Mailbox" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Mail.png"></a>	
 </p>
