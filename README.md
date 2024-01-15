@@ -64,9 +64,12 @@ hobbies: ["Art & Design", "Blogging"]
 	<img width="50px" alt="JavaScript" title="JavaScript" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/JavaScript-icon1.gif">
 	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 	<img width="50px" alt="Pythin" title="Python" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Python-icon.gif">
+	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+	<img width="50px" alt="Swift" title="Swift" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Swift-icon.gif">
 </p>
 <p>&#8287;&#8287;&#8287;&#8287;CSS
 	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;HTML
 	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;Java
 	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;JavaScript
-        &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;Python</p>
+        &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;Python
+        &#8287:&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;Swift</p>
