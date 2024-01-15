@@ -52,5 +52,5 @@ hobbies: ["Art & Design", "Blogging"]
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkachuk-ai&hide_border=true&show_icons=true&theme=transparent&text_color=ff4dd2&line_height=30&custom_title=🔆%20My%20GitHub%20Stats" alt="My GitHub Stats"/>
 </p>
 
-
-
+##
+### <img width="32px" alt="Slash" title="Slash" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Slash.gif"> &#8287; Coding Tools
