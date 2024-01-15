@@ -41,4 +41,4 @@ hobbies: ["Art & Design", "Blogging"]
 
  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;![snake gif](https://github.com/tkachuk-ai/tkachuk-ai/blob/output/github-contribution-grid-snake-dark.svg)
 
- ### <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Stats.gif"> &#8287 GitHub Stats
+ ### <img width="36px" alt="Stats" title="Stats" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/Stats.gif"> GitHub Stats
