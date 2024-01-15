@@ -45,8 +45,8 @@ hobbies: ["Art & Design", "Blogging"]
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=725072838" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=dark" width="475" height="auto">
-    <img alt="Pushes and Commits of tkachuk-ai/tkachuk-ai" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=light" width="500" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=dark" width="375" height="auto">
+    <img alt="Pushes and Commits of tkachuk-ai/tkachuk-ai" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=725072838&image_size=auto&color_scheme=light" width="400" height="auto">
   </picture>
 </a>
 
