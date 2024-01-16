@@ -2,7 +2,7 @@
 	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/city/Retro-programmer.gif" width="1010">
 </div>
 
-
+##
 
 <div align="center">
 	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/Welcome.gif">
