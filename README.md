@@ -67,6 +67,8 @@ hobbies: ["Art & Design", "Blogging"]
 	<img width="50px" alt="Swift" title="Swift" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/Swift.gif">
 	&#8287;&#8287;
 	<img width="50px" alt="GitHub" title="GitHub" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/GitHub.gif">
+	&#8287;&#8287;&#8287;
+	<img width="80px" alt="Git" title="Git" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/Git.gif">
 </p>
 
 
