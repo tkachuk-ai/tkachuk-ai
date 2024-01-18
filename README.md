@@ -48,7 +48,7 @@ hobbies: ["Art & Design", "Blogging"]
 ##
  ### <img width="36px" alt="Stats" title="Stats" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/decoration/Stats.gif"> GitHub Stats
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkachuk-ai&layout=compact&hide_border=true&theme=transparent&custom_title=✨%20Coding%20Languages&title_color=ff4dd2&text_color=9999ff">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkachuk-ai&layout=compact&hide_border=true&theme=transparent&custom_title=✨%20Coding%20Languages&title_color=ff4dd2&text_color=ffffff">
 &#8287;&#8287;&#8287;&#8287;&#8287;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkachuk-ai&hide_border=true&show_icons=true&theme=transparent&text_color=ff4dd2&line_height=30&custom_title=🔆%20My%20GitHub%20Stats" alt="My GitHub Stats"/>
 </p>
