@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/Wecome-5.gif">
+	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/WelcomeTraveller.gif">
 </div>
 
 ### <img width="32px" alt="Coder" title="Coder" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/decoration/Coder.gif"> &#8287; About Me
