@@ -1,24 +1,40 @@
+<!-- Setting up the image of retro programmer at the top -->
 <div align="center">
 	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/city/Retro-programmer.gif" width="910">
 </div>
 
-
-
+<!-- Greeting ad hand gif set up under the retro programmer -->
 <h1 align="center">Hi there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/Hand.gif" width="32px"></h1>
 
-
+<!-- Personal social media icons with links (LinkedIn, Telegram, Discord, Mail) as well as YouTube channel -->
 <p align="center">
-  <a href="https://youtube.com/@CS_Math?si=IrWWvGlMSDaH-7Sz"><img width="29px" alt="Youtube" title="Youtube" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/YouTube.png"/></a>
+	<!-- YouTube -->
+  <a href="https://youtube.com/@CS_Math?si=IrWWvGlMSDaH-7Sz">
+	  <img width="29px" alt="YouTube" title="YouTube" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/YouTube.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/otkachukSE"><img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/LinkedIn.png"/></a>
+	<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/otkachukSE">
+	  <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/LinkedIn.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/tkachuk_ai"><img width="30px" alt="Telegram" title="Telegram" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Telegram.png"/></a>
+	<!-- Telegram -->
+  <a href="https://t.me/tkachuk_ai">
+	  <img width="30px" alt="Telegram" title="Telegram" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Telegram.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cfPz33Qz" alt="Dyscord" title="Discord Server"><img width="35px" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Discord.png"/></a>
+	<!-- Discord -->
+  <a href="https://discord.gg/cfPz33Qz" alt="Discord" title="Discord Server">
+	  <img width="35px" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Discord.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:oleksandratkachuk@yahoo.com"><img width="34px" alt="Mailbox" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Mail.png"></a>	
+	<!-- Mailbox -->
+  <a href="mailto:oleksandratkachuk@yahoo.com">
+	  <img width="34px" alt="Mailbox" title ="Mailbox" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Mail.png">
+  </a>	
 </p>
 
+<!-- A welcoming gif for a user -->
 <div align="center">
 	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/WelcomeTraveller.gif">
 </div>
