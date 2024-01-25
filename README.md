@@ -10,28 +10,23 @@
 <p align="center">
 	<!-- YouTube -->
   <a href="https://youtube.com/@CS_Math?si=IrWWvGlMSDaH-7Sz">
-	  <img width="29px" alt="YouTube" title="YouTube" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/YouTube.png"/>
-  </a>
+	  <img width="29px" alt="YouTube" title="YouTube" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/YouTube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 	<!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/otkachukSE">
-	  <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/LinkedIn.png"/>
-  </a>
+	  <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/LinkedIn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 	<!-- Telegram -->
   <a href="https://t.me/tkachuk_ai">
-	  <img width="30px" alt="Telegram" title="Telegram" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Telegram.png"/>
-  </a>
+	  <img width="30px" alt="Telegram" title="Telegram" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 	<!-- Discord -->
   <a href="https://discord.gg/cfPz33Qz" alt="Discord" title="Discord Server">
-	  <img width="35px" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Discord.png"/>
-  </a>
+	  <img width="35px" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 	<!-- Mailbox -->
   <a href="mailto:oleksandratkachuk@yahoo.com">
-	  <img width="34px" alt="Mailbox" title ="Mailbox" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Mail.png">
-  </a>	
+	  <img width="34px" alt="Mailbox" title ="Mailbox" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/Mail.png"></a>	
 </p>
 
 <!-- A welcoming gif for a user -->
