@@ -1,4 +1,4 @@
-<!-- Setting up the image of retro programmer at the top -->
+<!-- Setting up the image of the retro programmer at the top -->
 <div align="center">
 	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/city/Retro-programmer.gif" width="910">
 </div>
