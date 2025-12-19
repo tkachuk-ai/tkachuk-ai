@@ -38,10 +38,10 @@
 
 ```yaml
 name: Oleksandra Tkachuk
-located_in: [USA]
+located_in: [Bloomington, IN, USA]
 from: [Ukraine]
-education: ["B.S. Computer Science, Software Engineering", "Data Science Minor", "Mathematics Minor"]
-school: ["Indiana University", "Hutton Honors College", "Harvard Online"]
+education: ["B.S. Computer Science, Software Engineering", "Data Science Minor", "B.S. II Applied Mathematics]
+school: ["Indiana University Bloomington", "Hutton Honors College", "Harvard Online"]
 language: ["English", "Ukrainian", "Russian"]
 website: ["Coming-Soon"]
 job: ["Web Developer", "Aspiring Software Engineer", "Adobe Student Ambassador"]
